@@ -1,21 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>《奇特的一生》BR</title>
-    <url>/2022/01/17/20220117-1/</url>
-    <content><![CDATA[<p>重读已是三年后，今朝还比昨日新</p>
+    <title>《三十六惑》BN</title>
+    <url>/2019/02/03/20190203-0/</url>
+    <content><![CDATA[<p><img src="http://cdn.xranzhao.cn/BR.png"></p>
 <span id="more"></span>
 
-
-
-
-
-<h2 id="Change-Log"><a href="#Change-Log" class="headerlink" title="Change Log"></a>Change Log</h2>]]></content>
+<p><strong>Daniel Levinson</strong></p>
+<p><strong>身份：</strong>成人正面发展领域创始人，心理学家</p>
+<p><strong>资历：</strong>加州伯克利分校研究社会科学，哈佛大学研究人格与组织环境，耶鲁大学研究成人发展</p>
+<p><strong>观点：</strong><a href="https://en.wikipedia.org/wiki/Stage-crisis_view">stage-crisis view</a>：从童年到老年的特定生活阶段，他建议每个阶段都有需要解决的发展任务或危机。成年前阶段，成年早期过渡期，成年早期阶段，中年过渡阶段，成年中期阶段，成年后期过渡阶段和成年后期阶段。                 </p>
+<p><strong>作品：</strong></p>
+<p>《<em>The Seasons of a Man’s Life</em>》</p>
+<p>《<em>The Seasons of a Woman’s Life</em>》</p>
+<p><strong>Ravenna Helson</strong></p>
+<p><strong>身份：</strong>心理学家</p>
+<p><strong>资历：</strong>在IPAR（人格评估研究所）工作；伯克利加州大学心理学副教授；</p>
+<p><strong>观点：</strong>女性生活创造力与个性的联系</p>
+<p><strong>作品：</strong></p>
+<h3 id="核心观点"><a href="#核心观点" class="headerlink" title="核心观点"></a>核心观点</h3><ul>
+<li><p><strong>stage-crisis view</strong></p>
+<p>Daniel Levinson 的阶段性危机理论将人生分为七个阶段，成年前阶段；成年早期过渡期；成年早期阶段；中年过渡阶段；成年中期阶段；成年后期过渡阶段和成年后期阶段。</p>
+</li>
+<li><p><strong>社会钟理论</strong></p>
+</li>
+<li><p><strong>人生困惑的困惑来自时间和身体</strong> </p>
+<p>时间误区：短时间提升；低估时间复利；</p>
+<p>身体：身体不是认知的外在，而是认知的本身。身体外在形成社会钟，身体内在会形成心理钟。</p>
+</li>
+</ul>
+<h3 id="摘抄"><a href="#摘抄" class="headerlink" title="摘抄"></a>摘抄</h3><ul>
+<li>认知科学与其他科学不一样的地方是，它擅长思考人类心智现象背后的深层次规律。</li>
+<li>绝大多数社会精英有自己独特的身体节拍和时间节奏，同时尽量让别人来配合自己的时间，而非为金钱出让自己的时间。</li>
+<li>希望你的困惑越来越偏向内在动机。你越向内在动机倾斜，他对你帮助越大；你越向金钱、声望等外部奖励妥协，你未来越可能遇到无穷无尽的麻烦。</li>
+</ul>
+<p>阳志平文章中两段启人心智的文章，都是国外心理学大家的理论。与其看别人对于理论的理解，还不如先看原著。可是围墙耸立，实在是没有办法</p>
+]]></content>
       <categories>
-        <category>Review</category>
+        <category>literature</category>
       </categories>
       <tags>
-        <tag>BR</tag>
+        <tag>N</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hexo+github构建博客系统</title>
+    <url>/2019/01/29/20190129-0/</url>
+    <content><![CDATA[<p><img src="http://cdn.xranzhao.cn/PL.png"></p>
+<span id="more"></span>
+
+<h2 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h2><ul>
+<li><p>安装node.js</p>
+<p>进入官网，默认下载即可。</p>
+<p>记得默认安装中勾选，“添加到环境变量中“。</p>
+</li>
+<li><p>安装git</p>
+</li>
+<li><p>安装hexo</p>
+<p>看原生文档，<a href="https://hexo.io/zh-cn/">hexo官网</a>可以构建hexo静态博客，用localhost:4000打开</p>
+</li>
+<li><p>发布到GitHub</p>
+<p>采用nexT主题，进入网站[nexT官方文档][<a href="http://theme-next.iissnan.com/]">http://theme-next.iissnan.com/]</a></p>
+<p><a href="https://github.com/iissnan/hexo-theme-next">主题下载指导方针</a> </p>
+</li>
+<li><p>绑定域名</p>
+<p>买一个域名，解析，在GitHub绑定</p>
+</li>
+</ul>
+<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><ul>
+<li><a href="https://blog.csdn.net/u012195214/article/details/79204088">https://blog.csdn.net/u012195214/article/details/79204088</a></li>
+<li>hexo deploy –message ‘XXX’ 提交时添加提交记录</li>
+</ul>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>log</tag>
       </tags>
   </entry>
   <entry>
@@ -51,6 +112,24 @@
 <p>目前<strong>高数</strong>已经复习完了第一章，课后习题也做完了，可是该整理的知识框架还没有整理，对于证明类的题还是不熟练，主要是因为定义不熟悉，还有很多要背的公式。<strong>想找个时间读几本关于数学的科普书，像什么数学家的生平还有定理的由来之类的。</strong>数学应该是很棒的一门学科，可是我在小学初中高中都没有掌握好，我认为是自己的问题，我希望能够通过自己的努力，在这一次将数学变成我的强项。</p>
 <p><strong>英语</strong>也只是做了一篇真题，作文还没有写，对了答案，错的惨不忍睹。还是想要利用现在的科技，在网上找试卷的PDF，以便于整理和记忆。</p>
 <p>没有开始口语练习是我比较遗憾的一点，很想要把口语学好。决定第一周开始学习《赖世雄美语入门》和<a href="https://v.qq.com/x/page/w0146n8467c.html">BBC官方英式发音全集</a>，然后第二周学习牛津160句，【连读，失去爆破，重读，停顿，语调】，第3、4、5、6周造句练习，同时跟读生活大爆炸，积累语料。每天十分钟生活大爆炸，当一个小时来用，标记【连读，失去爆破，重读，停顿，语调】。第四周，三集以后开始回顾。</p>
+<h2 id="Change-Log"><a href="#Change-Log" class="headerlink" title="Change Log"></a>Change Log</h2>]]></content>
+      <categories>
+        <category>Review</category>
+      </categories>
+      <tags>
+        <tag>BR</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《奇特的一生》BR</title>
+    <url>/2022/01/17/20220117-1/</url>
+    <content><![CDATA[<p>重读已是三年后，今朝还比昨日新</p>
+<span id="more"></span>
+
+
+
+
+
 <h2 id="Change-Log"><a href="#Change-Log" class="headerlink" title="Change Log"></a>Change Log</h2>]]></content>
       <categories>
         <category>Review</category>
