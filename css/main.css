@@ -1904,12 +1904,12 @@ pre code {
 }
 @media (min-width: 992px) {
   .post-body {
-    text-align: center;
+    text-align: justify;
   }
 }
 @media (max-width: 991px) {
   .post-body {
-    text-align: center;
+    text-align: justify;
   }
 }
 .post-body h1 .header-anchor,
@@ -2741,7 +2741,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #fffa3e;
+  background: #1a75ff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
