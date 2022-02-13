@@ -116,7 +116,7 @@
         <category>Out-fanst翻译</category>
       </categories>
       <tags>
-        <tag>‘德赫篇-《崭新世界》’</tag>
+        <tag>德赫篇-《崭新世界》</tag>
       </tags>
   </entry>
   <entry>
@@ -257,7 +257,7 @@
         <category>Out-fanst翻译</category>
       </categories>
       <tags>
-        <tag>‘德赫篇-《崭新世界》’</tag>
+        <tag>德赫篇-《崭新世界》</tag>
       </tags>
   </entry>
   <entry>
@@ -323,7 +323,7 @@
       </tags>
   </entry>
   <entry>
-    <title>时间复盘模板</title>
+    <title>时间收支模板</title>
     <url>/2022/01/28/20220128/</url>
     <content><![CDATA[<p>借鉴参考《奇特的一生》并经历3年迭代</p>
 <span id="more"></span>
@@ -342,7 +342,6 @@
 </li>
 </ol>
 <h2 id="例行工作"><a href="#例行工作" class="headerlink" title="例行工作"></a>例行工作</h2><ol>
-<li>博客更新</li>
 <li>英语学习<ol>
 <li>Tips：只要备注英语学习就可以，不管是背单词还是备考还是背单词</li>
 </ol>
@@ -351,13 +350,17 @@
 <li>Tips：书籍名称即可，不用加书名号</li>
 </ol>
 </li>
-<li>职业技能<ol>
+<li>周期复盘（2022-02-13 11:21:32 添加：待修改，如果日常生活中一直没有使用到该条目，要进行修改）<ol>
 <li>Tips：主要针对职业技能方面的成长学习，比如读专业报告，了解专业动向</li>
+</ol>
+</li>
+<li>自媒体更新<ol>
+<li>Tips：个人博客、小红书、公众号的更新都算</li>
 </ol>
 </li>
 </ol>
 <h2 id="杂事"><a href="#杂事" class="headerlink" title="杂事"></a>杂事</h2><ol>
-<li>社交<ol>
+<li>出门social<ol>
 <li>备注标准 eg：邓培芹-吃饭</li>
 <li>【1】-【2】</li>
 <li>【1】：人群</li>
@@ -368,15 +371,22 @@
 <li>Tips：运动名称即可</li>
 </ol>
 </li>
-<li>浏览视频<ol>
-<li>Tips：名称</li>
+<li>年度演出<ol>
+<li>Tips：一年之中参与过的提升精神世界力量的活动，例如展览，脱口秀</li>
+<li>备注标准：活动类型-活动地点-活动名称 eg：演唱会-不晚live-陈鸿宇美好人生</li>
+</ol>
+</li>
+<li>日常清洁<ol>
+<li>Tips：和收拾有关的所有事情，例如洗头，拖地，洗衣，不加备注</li>
 </ol>
 </li>
 </ol>
 <h2 id="项目工作"><a href="#项目工作" class="headerlink" title="项目工作"></a>项目工作</h2><ol>
 <li>Tips：会在一个时间段内固定事关个人成长的额外项目，一个时间段只有一个，会写一个项目日志。项目备注按照上面【中心工作】的项目备注来标记</li>
 </ol>
+<h2 id="已跟踪时间参考文档"><a href="#已跟踪时间参考文档" class="headerlink" title="已跟踪时间参考文档"></a>已跟踪时间参考文档</h2><p>吃饭 1h</p>
 <h2 id="Change-log"><a href="#Change-log" class="headerlink" title="Change log"></a>Change log</h2><p>20220128 16:45 0.5h 新建编辑</p>
+<p>20220213 11:18 0.3h 添加例行工作条目-自媒体更新，添加杂事条目并修改杂事名称</p>
 ]]></content>
       <categories>
         <category>清单模式</category>
