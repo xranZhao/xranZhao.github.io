@@ -9658,7 +9658,8 @@
 <h1 id="下周安排"><a href="#下周安排" class="headerlink" title="下周安排"></a>下周安排</h1><p><img src="https://suli-blog.oss-cn-beijing.aliyuncs.com/img/image-20220228223612637.png" alt="image-20220228223612637"></p>
 <h1 id="Change-Log"><a href="#Change-Log" class="headerlink" title="Change Log"></a>Change Log</h1><ul>
 <li>20220227 23:13 新建</li>
-<li>20220228 22:34 0.3h 完成</li>
+<li>20220228 22:34 0.3h 完成 </li>
+<li>20220228 22:44 写完才发现应该写的是月度复盘，哈哈哈，等明天我的豆瓣出月度报告，我加上</li>
 </ul>
 ]]></content>
       <categories>
@@ -9666,6 +9667,64 @@
       </categories>
       <tags>
         <tag>WR</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>📚数据分析-《谁说菜鸟不会数据分析》BR</title>
+    <url>/2022/02/28/20220228-br/</url>
+    <content><![CDATA[<p>是个数据菜鸟能看懂的书，学到一些皮毛</p>
+<span id="more"></span>
+
+<h1 id="可调用内容"><a href="#可调用内容" class="headerlink" title="可调用内容"></a>可调用内容</h1><ul>
+<li><p>数据分析方法论</p>
+</li>
+<li><p>数据处理方法</p>
+</li>
+</ul>
+<h1 id="实战"><a href="#实战" class="headerlink" title="实战"></a>实战</h1><ul>
+<li><p>转置的便捷方法？在书上看到过，但是没在笔记里找到</p>
+</li>
+<li><p>Excel中数字以千、万、十万、百万为单位显示</p>
+<ul>
+<li>千：#0,</li>
+</ul>
+</li>
+<li><p>万：#0！.0,</p>
+</li>
+<li><p>十万：#0！.00,</p>
+</li>
+<li><p>百万：#0,00,,</p>
+</li>
+</ul>
+<h1 id="工时记录-6-5h"><a href="#工时记录-6-5h" class="headerlink" title="工时记录 6.5h"></a>工时记录 6.5h</h1><ul>
+<li><p>220128 10:17-11:50 1.5h 13:31-15:54 2.5h   4h </p>
+</li>
+<li><p>220126 10：34-11：10 0.6h</p>
+</li>
+<li><p>220217 17:10-18:40 1.5h</p>
+</li>
+<li><p>220221 18:20-18:43 0.3h</p>
+</li>
+</ul>
+<h1 id="框架"><a href="#框架" class="headerlink" title="框架"></a>框架</h1><ul>
+<li><p>数据分析是什么 </p>
+</li>
+<li><p>数据分析方法+误区+职业发展+术语</p>
+</li>
+<li><p>数据分析方法论</p>
+</li>
+<li><p>数据分析具体步骤详解</p>
+</li>
+</ul>
+<h1 id="Change-Log"><a href="#Change-Log" class="headerlink" title="Change Log"></a>Change Log</h1><ul>
+<li>20220228 22:47 0.1h 新建复制粘贴</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Out-BR</category>
+      </categories>
+      <tags>
+        <tag>BR</tag>
       </tags>
   </entry>
 </search>
