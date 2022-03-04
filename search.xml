@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>20220305-wr</title>
+    <url>/2022/03/05/20220305-wr/</url>
+    <content><![CDATA[<p>周复盘模板</p>
+<span id="more"></span>
+
+<h1 id="时间安排-amp-复盘"><a href="#时间安排-amp-复盘" class="headerlink" title="时间安排&amp;复盘"></a>时间安排&amp;复盘</h1><p>需要提前一周时间生成文件并编辑好这个部分</p>
+<h1 id="实际开销-amp-上周环比"><a href="#实际开销-amp-上周环比" class="headerlink" title="实际开销&amp;上周环比"></a>实际开销&amp;上周环比</h1><p>打开文稿&gt;周复盘-时间.excel&gt;输入本周时间，截图即可</p>
+<h1 id="成就满满"><a href="#成就满满" class="headerlink" title="成就满满"></a>成就满满</h1><h1 id="稍有遗憾"><a href="#稍有遗憾" class="headerlink" title="稍有遗憾"></a>稍有遗憾</h1><h1 id="来点感悟"><a href="#来点感悟" class="headerlink" title="来点感悟"></a>来点感悟</h1><h1 id="Change-Log"><a href="#Change-Log" class="headerlink" title="Change Log"></a>Change Log</h1><ul>
+<li>20220305 01:15 必须得睡觉了，明天要social 明天更新 还得更新项目《以公之名》</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Out-周期复盘</category>
+      </categories>
+      <tags>
+        <tag>WR</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>📚数据分析-《谁说菜鸟不会数据分析》BR</title>
     <url>/2022/02/28/20220228-br/</url>
     <content><![CDATA[<p>是个数据菜鸟能看懂的书，学到一些皮毛</p>
@@ -932,12 +951,14 @@
       </tags>
   </entry>
   <entry>
-    <title>时间收支模板</title>
+    <title>时间模板</title>
     <url>/2022/01/28/20220128/</url>
     <content><![CDATA[<p>借鉴参考《奇特的一生》并经历3年迭代</p>
 <span id="more"></span>
 
-<h2 id="中心工作（项目跟进）"><a href="#中心工作（项目跟进）" class="headerlink" title="中心工作（项目跟进）"></a>中心工作（项目跟进）</h2><ol>
+<figure class="highlight tex"><table><tr><td class="code"><pre><span class="line">- 周起始时间为每周六，周结束时间为每周五，周报编辑时间为每周五上交周报之时</span><br></pre></td></tr></table></figure>
+
+<h1 id="《奇特的一生》账本规范"><a href="#《奇特的一生》账本规范" class="headerlink" title="《奇特的一生》账本规范"></a>《奇特的一生》账本规范</h1><h2 id="中心工作（项目跟进）"><a href="#中心工作（项目跟进）" class="headerlink" title="中心工作（项目跟进）"></a>中心工作（项目跟进）</h2><ol>
 <li>Tips：日常最消耗时间的工作，</li>
 <li>日常项目备注标准是 eg:【Ali】-GSK-年度-PPT-策略人群偏好品牌及sku</li>
 <li>【1】-【2】-【3】-【4】-【5】</li>
@@ -1042,10 +1063,38 @@
 <td align="center">0.5h</td>
 </tr>
 </tbody></table>
-<h2 id="已跟踪时间参考文档"><a href="#已跟踪时间参考文档" class="headerlink" title="已跟踪时间参考文档"></a>已跟踪时间参考文档</h2><p>吃饭 1h</p>
+<h1 id="《总得有口饭吃》账本规范"><a href="#《总得有口饭吃》账本规范" class="headerlink" title="《总得有口饭吃》账本规范"></a>《总得有口饭吃》账本规范</h1><h2 id="项目工作-1"><a href="#项目工作-1" class="headerlink" title="项目工作"></a>项目工作</h2><ol>
+<li>取数取数</li>
+<li>制作PPT</li>
+<li>搭建框架</li>
+<li>编辑结论</li>
+<li>复盘项目</li>
+</ol>
+<h2 id="成长日记"><a href="#成长日记" class="headerlink" title="成长日记"></a>成长日记</h2><ol>
+<li>管理学</li>
+<li>数据分析</li>
+<li>商业思维</li>
+<li>工具学习</li>
+</ol>
+<h1 id="时间观察日记"><a href="#时间观察日记" class="headerlink" title="时间观察日记"></a>时间观察日记</h1><p><img src="https://suli-blog.oss-cn-beijing.aliyuncs.com/img/image-20220305010208524.png" alt="image-20220305010208524"></p>
+<ul>
+<li>每周总时间消耗几乎保持在50h-55h左右，也就是我能调用的时间最多是55h</li>
+<li>每周纯时间最高在45h左右，最高占比在85%</li>
+<li>每周实际工作时间最高35h</li>
+<li>每周例行工作时间最高18h</li>
+<li>每周消遣时间最高15h 相当于周末2天时间什么都没做只在玩耍，一旦消遣时间达到15h，即纯时间会有所下降，需要平衡</li>
+</ul>
+<blockquote>
+<p>20220305 01:05 基于上述时间收支规律对未来时间支出要求</p>
+<ul>
+<li>V1版本（最宽松）：每周保持50h总时间，40h纯时间，35h中心工作时间，5h例行时间，10h消遣时间</li>
+<li>V2版本（努力就能达到）：每周保持50h总时间，40h纯时间，35h中心工作时间，10h例行时间，5h消遣时间</li>
+</ul>
+</blockquote>
 <h2 id="Change-log"><a href="#Change-log" class="headerlink" title="Change log"></a>Change log</h2><p>20220128 16:45 0.5h 新建编辑</p>
 <p>20220213 11:18 0.3h 添加例行工作条目-自媒体更新，添加杂事条目并修改杂事名称</p>
 <p>20220222 21:48 0.1h 添加周复盘模板定义</p>
+<p>20220305 00:14 0.7h 添加《总得有口饭吃吧》账本，修改时间记录起始日期从周一到周六</p>
 ]]></content>
       <categories>
         <category>清单模式</category>
