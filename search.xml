@@ -609,7 +609,7 @@
 <tr>
 <th align="center">年度项目名称</th>
 <th align="center">一句话简介</th>
-<th align="center">项目分类</th>
+<th align="center">创建时间</th>
 </tr>
 </thead>
 <tbody><tr>
@@ -623,15 +623,16 @@
 <td align="center"></td>
 </tr>
 <tr>
-<td align="center"></td>
-<td align="center"></td>
-<td align="center"></td>
+<td align="center"><a href="https://xranzhao.github.io/2022/01/21/20220121/">2021年度最爱文字</a></td>
+<td align="center">对读书期间的文件进行总结</td>
+<td align="center">2022-11-13</td>
 </tr>
 </tbody></table>
 <h3 id="过去的自己-收录"><a href="#过去的自己-收录" class="headerlink" title="过去的自己-收录"></a>过去的自己-收录</h3><blockquote>
 <p>此篇收录2013-2021年 8年时间所有个人碎片日志</p>
 </blockquote>
 <h1 id="Change-Log"><a href="#Change-Log" class="headerlink" title="Change Log"></a>Change Log</h1><ul>
+<li>20221113 13:19 年度项目收录《2021年度最爱文字》</li>
 <li>20221030 12:09 新建</li>
 </ul>
 <h1 id="注释-notes"><a href="#注释-notes" class="headerlink" title="注释 notes"></a>注释 notes</h1>]]></content>
@@ -7986,7 +7987,7 @@
 <h2 id="Changlog"><a href="#Changlog" class="headerlink" title="Changlog"></a>Changlog</h2><p>20220121 23:08 写于微雨的夜晚</p>
 ]]></content>
       <categories>
-        <category>年度</category>
+        <category>生活录</category>
       </categories>
       <tags>
         <tag>最爱</tag>
