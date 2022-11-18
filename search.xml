@@ -8024,6 +8024,10 @@
     <content><![CDATA[<p>搭建博客必看笔记</p>
 <span id="more"></span>
 
+<h2 id="20221118-上传图片压缩"><a href="#20221118-上传图片压缩" class="headerlink" title="20221118-上传图片压缩"></a>20221118-上传图片压缩</h2><p><a href="https://github.com/JuZiSang/picgo-plugin-compress#readme">Picgo-图片压缩插件</a></p>
+<p><a href="https://picgo.github.io/PicGo-Core-Doc/zh/dev-guide/deploy.html#%E6%99%AE%E9%80%9A%E6%8F%92%E4%BB%B6">图片压缩方法教学</a></p>
+<p><img data-src="https://suli-blog.oss-cn-beijing.aliyuncs.com/img/image-20221118220427722.png" alt="image-20221118220427722">压缩上传的图片仅57k，加载时间减少一倍</p>
+<p><img data-src="https://suli-blog.oss-cn-beijing.aliyuncs.com/img/image-20221118220501801.png" alt="image-20221118220501801"></p>
 <h2 id="20221115-图片加载速度提升"><a href="#20221115-图片加载速度提升" class="headerlink" title="20221115-图片加载速度提升"></a>20221115-图片加载速度提升</h2><p><a href="https://blog.aayu.today/skill/blog/20210701/">图片懒加载</a></p>
 <h2 id="20221115以前"><a href="#20221115以前" class="headerlink" title="20221115以前"></a>20221115以前</h2><p><a href="https://www.simon96.online/2018/10/12/hexo-tutorial/">【持续更新】最全Hexo博客搭建+主题优化+插件配置+常用操作+错误分析</a></p>
 <p><a href="https://io-oi.me/tech/hexo-next-optimization/">打造个性超赞博客 Hexo + NexT + GitHub Pages 的超深度优化</a></p>
@@ -8037,6 +8041,7 @@
 <p><a href="https://tding.top/archives/4ea54752.html">fanst博客提交站点引擎收录</a></p>
 <p><a href="https://segmentfault.com/a/1190000037550362">网站收录2</a></p>
 <h1 id="Change-log"><a href="#Change-log" class="headerlink" title="Change log"></a>Change log</h1><ul>
+<li>20221118 20:37-22:02 1.5h 完成</li>
 <li>20221115 21:58 实在受不了博客图片加载速度，找找方法</li>
 <li>20220412 21:29 将fanst博客提交搜索引擎收录</li>
 <li>20220409 19:23 已经到搭建尾声了，遇到很多问题，也解决了很多问题</li>
